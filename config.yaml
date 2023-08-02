@@ -1,0 +1,8 @@
+k_folds : 5
+n_epochs : 60
+patience : 30
+batch_size : 32
+learning_rate : 2e-4
+weight_decay : 1e-4
+seed: 1234
+batch_size: 12
