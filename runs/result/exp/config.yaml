@@ -1,0 +1,6 @@
+batch_size: 16
+learning_rate: 0.0002
+n_epochs: 1
+patience: 30
+seed: 1234
+weight_decay: 0.0001
